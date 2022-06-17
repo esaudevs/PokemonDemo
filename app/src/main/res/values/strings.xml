@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PokemonDemo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pokemon_detail__abilities_title">Abilities</string>
+    <string name="pokemon_detail__about_title">About</string>
+    <string name="pokemon_detail__base_stats_title">Base Stats</string>
+    <string name="load_error__retry">Retry</string>
+    <string name="load_state__error_message">Error loading pokemon</string>
+</resources>
