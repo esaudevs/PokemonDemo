@@ -7,7 +7,7 @@ import com.esaudev.pokemondemo.data.remote.mappers.mapToDomain
 import com.esaudev.pokemondemo.domain.model.Pokemon
 
 const val NETWORK_PAGE_SIZE = 20
-private const val INITIAL_LOAD_SIZE = 1
+private const val INITIAL_LOAD_SIZE = 0
 
 class PokemonListPagingSource(
     private val pokemonApi: PokemonApi
